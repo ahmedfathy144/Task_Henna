@@ -41,14 +41,14 @@ a {
 
 .my-hero-providers {
   
-  background: url('../img/providerback.png'), url('../img/providerback2.jpg');
+  background: url('../img/back-header-back.png'), url('../img/providerback2.jpg');
   background-size: cover;
   background-position: center;
 }
 
 .my-hero-welcome {
   
-  background: url('../img/back-header.png'), url('../img/back-header-back.jpg');
+  background: url('../img/providerback2.png'), url('../img/back-header-back.jpg');
   background-size: cover;
   background-position: bottom;
 }
