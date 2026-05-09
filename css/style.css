@@ -40,19 +40,19 @@ a {
 }
 
 .my-hero-providers {
-  background: url(/img/providerback.png), url(/img/providerback2.png);
+  background: url('img/providerback.png'), url('img/providerback2.png');
   background-size: cover;
   background-position: center;
 }
 
 .my-hero-welcome {
-  background: url(/img/back-header.png), url(/img/back-header-back.png);
+  background: url('img/back-header.png'), url('img/back-header-back.png');
   background-size: cover;
   background-position: bottom;
 }
 
 .download-app-section {
-  background: url(/img/Rectangle\ 20.png), url(/img/Rectangle\ 19.png);
+  background: url('img/Rectangle\ 20.png'), url('img/Rectangle\ 19.png');
   background-size: cover;
   background-position: center;
 }
