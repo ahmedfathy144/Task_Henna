@@ -41,21 +41,21 @@ a {
 
 .my-hero-providers {
   
-  background: url('../img/back-header-back.png'), url('../img/providerback2.jpg');
+  background: url('../img/back-header-back.png');
   background-size: cover;
   background-position: center;
 }
 
 .my-hero-welcome {
   
-  background: url('../img/providerback2.png'), url('../img/back-header-back.jpg');
+  background: url('../img/providerback2.png');
   background-size: cover;
   background-position: bottom;
 }
 
 .download-app-section {
   
-  background: url('../img/Rectangle%2020.png'), url('../img/Rectangle%2019.png');
+  background: url('../img/Rectangle%2020.png');
   background-size: cover;
   background-position: center;
 }
