@@ -40,24 +40,24 @@ a {
 }
 
 .my-hero-providers {
-  background: url('../img/providerback.png'), url('../img/providerback2.png');
+  
+  background: url('../img/providerback.png'), url('../img/providerback2.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
 
 .my-hero-welcome {
-  background: url('../img/back-header.png'), url('../img/back-header-back.png');
+  
+  background: url('../img/back-header.png'), url('../img/back-header-back.jpg');
   background-size: cover;
   background-position: bottom;
-  background-repeat: no-repeat;
 }
 
 .download-app-section {
+  
   background: url('../img/Rectangle%2020.png'), url('../img/Rectangle%2019.png');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
 
 #Home-Providers nav div h3::after {
